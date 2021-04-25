@@ -1,0 +1,80 @@
+body {
+  font-family: 'Work Sans';
+  font-size: 1.25em;
+  font-weight: 300;
+  background-color: #004d9d;
+  color: #ffffff;
+  line-height: 1.5;
+}
+
+h1 {
+  font-size: 1.5em;
+  font-weight: 500;
+  margin: 0 0 10px 0;
+}
+
+a {
+  color: #ffffff;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #dddddd;
+}
+
+section {
+  height: 100vh;
+  background-image: url('sally_1.jpg');
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+header {
+  position: fixed;
+  top: 20px;
+  left: 20px;
+}
+
+footer {
+  position: fixed;
+  bottom: 20px;
+  left: 20px;
+}
+
+footer a {
+  margin: 0 8px 0 0;
+}
+
+.image_2 {
+  background-image: url('sally_2.jpg');
+}
+
+.image_3 {
+  background-image: url('sally_3.jpg');
+}
+
+.image_4 {
+  background-image: url('sally_4.jpg');
+}
+
+.image_5 {
+  background-image: url('sally_5.jpg');
+}
+
+.image_6 {
+  background-image: url('sally_6.jpg');
+}
+
+.image_7 {
+  background-image: url('sally_7.jpg');
+}
+
+.image_8 {
+  background-image: url('sally_8.jpg');
+}
+
+@media (max-width: 800px) {
+  section {
+    background-attachment: scroll;
+    height: 60vw;
+  }
