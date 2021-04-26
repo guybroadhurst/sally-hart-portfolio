@@ -8,7 +8,6 @@ Portfolio site for Sally Hart Photographer
 * [Demo](#demo)
 * [Features](#features)
 * [Status](#status)
-* [Inspiration](#inspiration)
 * [Contact](#contact)
 
 ## General info
