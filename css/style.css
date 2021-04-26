@@ -24,7 +24,7 @@ a:hover {
 
 section {
   height: 100vh;
-  background-image: url('/img/sally_1.jpg');
+  background-image: url('img/sally_1.jpg');
   background-size: cover;
   background-attachment: fixed;
 }
