@@ -24,7 +24,7 @@ a:hover {
 
 section {
   height: 100vh;
-  background-image: url('sally-hart-portfolio/img/sally_1.jpg');
+  background-image: url('/img/sally_1.jpg');
   background-size: cover;
   background-attachment: fixed;
 }
@@ -46,31 +46,31 @@ footer a {
 }
 
 .image_2 {
-  background-image: url('sally-hart-portfolio/img/sally_2.jpg');
+  background-image: url('/img/sally_2.jpg');
 }
 
 .image_3 {
-  background-image: url('sally-hart-portfolio/img/sally_3.jpg');
+  background-image: url('/img/sally_3.jpg');
 }
 
 .image_4 {
-  background-image: url('sally-hart-portfolio/img/sally_4.jpg');
+  background-image: url('/img/sally_4.jpg');
 }
 
 .image_5 {
-  background-image: url('sally-hart-portfolio/img/sally_5.jpg');
+  background-image: url('/img/sally_5.jpg');
 }
 
 .image_6 {
-  background-image: url('sally-hart-portfolio/img/sally_6.jpg');
+  background-image: url('/img/sally_6.jpg');
 }
 
 .image_7 {
-  background-image: url('sally-hart-portfolio/img/sally_7.jpg');
+  background-image: url('/img/sally_7.jpg');
 }
 
 .image_8 {
-  background-image: url('sally-hart-portfolio/img/sally_8.jpg');
+  background-image: url('/img/sally_8.jpg');
 }
 
 @media (max-width: 800px) {
